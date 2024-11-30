@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kpoper", "Kpoper\Kpoper.csproj", "{96F5BC59-964D-4CE6-A931-59305BFE938D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsKpoper", "WinFormsKpoper\WinFormsKpoper.csproj", "{52C6DB3A-281B-471B-AD43-3EFD388574FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96F5BC59-964D-4CE6-A931-59305BFE938D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F5BC59-964D-4CE6-A931-59305BFE938D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F5BC59-964D-4CE6-A931-59305BFE938D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F5BC59-964D-4CE6-A931-59305BFE938D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C6DB3A-281B-471B-AD43-3EFD388574FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C6DB3A-281B-471B-AD43-3EFD388574FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C6DB3A-281B-471B-AD43-3EFD388574FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C6DB3A-281B-471B-AD43-3EFD388574FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A8705A-9E7D-4662-82B8-04E26992A083}
+	EndGlobalSection
+EndGlobal
